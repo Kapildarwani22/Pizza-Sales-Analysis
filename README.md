@@ -32,7 +32,7 @@
 
 - Top 5 Pizzas by Revenue, Total Quantity, and Total Orders: Create a bar chart highlighting the top 5 performing pizzas based on revenue, quantity, and orders. This chart will help us identify the best-selling pizzas during the given period of time.
 
-## Pizza Sales Dashboard:
+### Pizza Sales Dashboard:
 
 ![Screenshot 2024-04-27 205138](https://github.com/Kapildarwani22/Pizza-Sales-Analysis-/assets/116799321/ce4daabd-d0dc-44da-a0a8-2df25bbed80f)
 
