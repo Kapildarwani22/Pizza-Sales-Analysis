@@ -32,7 +32,7 @@
 
 - Top 5 Pizzas by Revenue, Total Quantity, and Total Orders: Create a bar chart highlighting the top 5 performing pizzas based on revenue, quantity, and orders. This chart will help us identify the best-selling pizzas during the given period of time.
 
-## Pizza Sales Dashboard
+## Pizza Sales Dashboard:
 
 ![Screenshot 2024-04-27 205138](https://github.com/Kapildarwani22/Pizza-Sales-Analysis-/assets/116799321/ce4daabd-d0dc-44da-a0a8-2df25bbed80f)
 
@@ -46,6 +46,8 @@
 - Imported the CSV file into MS SQL Server and calculated the required parameters. After the calculation, the SQL Server is further connected to Power BI in order to perform the given tasks and plot various kinds of charts and visuals.
 
 - After connecting to Power BI, Cleared all the ambiguity present in the data to further process it and make it clean for the plotting.
+
+### Key Ideas
 
 - The project entails developing doughnut charts for pizza sales by category, a funnel chart, daily/monthly trend charts, and interactive dashboards with KPIs.
 
